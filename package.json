@@ -1,5 +1,5 @@
 {
-  "name": "no-op-logger",
+  "name": "@justinc/no-op-logger",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
